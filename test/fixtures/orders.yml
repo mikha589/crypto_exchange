@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  market: MyString
+  order_type: 1
+  side: 1
+  price: 9.99
+  quantity: 9.99
+  status: 1
+
+two:
+  user: two
+  market: MyString
+  order_type: 1
+  side: 1
+  price: 9.99
+  quantity: 9.99
+  status: 1
